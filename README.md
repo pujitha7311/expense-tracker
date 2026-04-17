@@ -15,10 +15,10 @@ A simple and interactive web application to track daily expenses.
 - JavaScript
 
 ## 🌐 Live Demo
-(Add your Netlify link here)
+https://pujitha7311.github.io/expense-tracker/
 
 ## 📸 Screenshot
-(Add your project image here)
+
 
 ## 📚 What I Learned
 - DOM manipulation
